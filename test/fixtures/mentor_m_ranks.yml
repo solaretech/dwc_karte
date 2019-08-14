@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mentor_id: 1
+  m_rank: 1
+  upgraded_at: 2019-08-14 13:41:58
+
+two:
+  mentor_id: 1
+  m_rank: 1
+  upgraded_at: 2019-08-14 13:41:58

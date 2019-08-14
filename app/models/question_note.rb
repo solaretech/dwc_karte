@@ -1,0 +1,2 @@
+class QuestionNote < ApplicationRecord
+end

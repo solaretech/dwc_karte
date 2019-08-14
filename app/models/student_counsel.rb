@@ -1,0 +1,2 @@
+class StudentCounsel < ApplicationRecord
+end

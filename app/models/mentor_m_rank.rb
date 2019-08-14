@@ -1,0 +1,2 @@
+class MentorMRank < ApplicationRecord
+end
